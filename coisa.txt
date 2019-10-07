@@ -1,0 +1,5 @@
+um editor de texto qualquer
+
+ele é um pouco descolado em comparação com om VIM, mas é via terminal apenas.
+
+
